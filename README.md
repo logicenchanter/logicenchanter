@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://github.com/logicenchanter/logicenchanter/blob/main/tech.png" alt="Logic Enchanter Banner" style="max-width: 100%;" />
+  <img src="https://github.com/logicenchanter/logicenchanter/blob/main/tech1.png" alt="Logic Enchanter Banner" style="max-width: 100%;" />
 </p>
 
 <h1 align="center">✨ Logic Enchanter ✨</h1>
