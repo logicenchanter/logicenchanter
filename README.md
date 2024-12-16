@@ -85,7 +85,7 @@ Feel free to connect, share ideas, or collaborate on a grand adventure of logic 
 ---
 
 <p align="center">
-  <img src="https://giphy.com/embed/1eqRAPclJDYyPeDne7" alt="Wizard Coding" width="200"/>
+ <iframe src="https://giphy.com/embed/1eqRAPclJDYyPeDne7" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/harrypotter-back-to-hogwarts-2024-bth24-1eqRAPclJDYyPeDne7">via GIPHY</a></p>
 </p>
 
 
