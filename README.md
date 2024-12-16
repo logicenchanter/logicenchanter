@@ -85,7 +85,7 @@ Feel free to connect, share ideas, or collaborate on a grand adventure of logic 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Wizard Coding" width="200"/>
+  <img src="https://giphy.com/embed/1eqRAPclJDYyPeDne7" alt="Wizard Coding" width="200"/>
 </p>
 
 
