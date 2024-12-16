@@ -85,8 +85,9 @@ Feel free to connect, share ideas, or collaborate on a grand adventure of logic 
 ---
 
 <p align="center">
- <iframe src="https://giphy.com/embed/1eqRAPclJDYyPeDne7" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/harrypotter-back-to-hogwarts-2024-bth24-1eqRAPclJDYyPeDne7">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/1eqRAPclJDYyPeDne7/giphy.gif" alt="Back to Hogwarts" width="480" height="269"/>
 </p>
+
 
 
 <!--
