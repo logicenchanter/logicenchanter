@@ -50,7 +50,7 @@
 
 <p align="center">
   <!-- GitHub Stats Card (replace YOURUSERNAME with your GitHub username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LogicEnchanter&show_icons=true&theme=dracula" alt="Logic Enchanter's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LogicEnchanter&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -62,6 +62,11 @@
   <!-- Streak Stats (optional) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicEnchanter&theme=dracula" alt="GitHub Streak Stats" />
 </p>
+
+<img
+  src="https://github-profile-achievements.vercel.app/api/achievements?username=LogicEnchanter&theme=dark"
+  alt="My GitHub Achievements"
+/>
 
 ---
 
