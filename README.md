@@ -19,8 +19,9 @@
   I explore various domains—web, backend, DevOps, data science—and love learning new languages and tools.  
 - 🚀 **Current Quests:**  
   - Mastering **Rust** for systems programming.
-  - Enhancing my **TypeScript** and **React** front-end enchantments.
-  - Delving deeper into **Python** data analysis and **machine learning**.
+  - Enhancing my **Microcontroller** and **IoT** enchantments.
+  - Delving deeper into **Python** and **R** data analysis and **machine learning**.
+  - New spells for **Data Engineering**.
   
 - 💬 **Feel free to ask:**  
   Reach out about logic puzzles, code reviews, or magical incantations (also known as "algorithms").
