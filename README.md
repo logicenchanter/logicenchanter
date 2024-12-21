@@ -71,6 +71,26 @@
 </p>
 ---
 
+### 🏆 Achievements
+
+<p align="center">
+  <!-- Option 1: Direct link to your GitHub achievements tab -->
+  <a href="https://github.com/LogicEnchanter?tab=achievements" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub%20Achievements-Click%20to%20View-00FF41?style=for-the-badge"
+      alt="View Achievements"
+    />
+  </a>
+</p>
+
+<!-- Or Option 2: Using the third-party 'github-profile-achievements' project -->
+<p align="center">
+  <img
+    src="https://github-profile-achievements.vercel.app/api/achievements?username=LogicEnchanter&theme=dark"
+    alt="My GitHub Achievements"
+  />
+</p>
+
 ### 🌱 Recent Enchantments
 
 <!-- Optionally, you can add automated workflows such as GitHub Activity or a pinned projects section. -->
