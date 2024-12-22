@@ -63,12 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicEnchanter&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-<img
-  src="https://github-profile-achievements.vercel.app/api/achievements?username=LogicEnchanter&theme=dark"
-  alt="My GitHub Achievements"
-/>
-</p>
 ---
 
 ### 🏆 Achievements
