@@ -73,23 +73,9 @@
 
 ### 🏆 Achievements
 
-<p align="center">
-  <!-- Option 1: Direct link to your GitHub achievements tab -->
-  <a href="https://github.com/LogicEnchanter?tab=achievements" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub%20Achievements-Click%20to%20View-00FF41?style=for-the-badge"
-      alt="View Achievements"
-    />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=LogicEnchanter&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Or Option 2: Using the third-party 'github-profile-achievements' project -->
-<p align="center">
-  <img
-    src="https://github-profile-achievements.vercel.app/api/achievements?username=LogicEnchanter&theme=dark"
-    alt="My GitHub Achievements"
-  />
-</p>
+
 
 ### 🌱 Recent Enchantments
 
