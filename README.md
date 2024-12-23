@@ -31,17 +31,44 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <!-- You can add or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Code-Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Code-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Tools-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <br/><br/>
+
+  <!-- Scripting & Tools -->
+  <img src="https://img.shields.io/badge/Shell_Scripting-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+  <br/><br/>
+
+  <!-- Web & App Development -->
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS Development"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <br/><br/>
+
+  <!-- Data & Databases -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-00ADD8?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Database_Design_&_Maintenance-555?style=flat-square" alt="Database Design & Maintenance"/>
+  <br/><br/>
+
+  <!-- Hardware & Platforms -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/PLC_Programming-555?style=flat-square" alt="PLC Programming for Bioreactors"/>
+  <br/><br/>
+
+  <!-- Data Visualization & Analysis Tools -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter Notebook/Lab"/>
 </p>
 
 ---
@@ -77,9 +104,9 @@
 
 **Featured Repositories:**
 
-- [**EnchantedRoutines**](https://github.com/LogicEnchanter/EnchantedRoutines): A magical toolbox of reusable code snippets and patterns.
-- [**WispOfLogic**](https://github.com/LogicEnchanter/WispOfLogic): Small experimental projects exploring AI, ML, and data manipulations.
-- [**ArcaneWeb**](https://github.com/LogicEnchanter/ArcaneWeb): A mystical front-end framework experiment, blending TypeScript and cutting-edge libraries.
+- [**EnchantedRoutines**](https://github.com/LogicEnchanter/dash): A magical toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
+- [**WispOfLogic**](https://github.com/LogicEnchanter/microcontrollers): Small experimental projects exploring sensors, Arduino, RaspberryPi and more...data manipulations.
+- [**ArcaneDBs**](https://github.com/LogicEnchanter/itisallaboutdataengineering): A mystical framework for experiment, blending databases, data manipulation and cutting-edge libraries.
 
 ---
 
