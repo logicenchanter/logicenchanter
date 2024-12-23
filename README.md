@@ -105,9 +105,9 @@
 
 **Featured Repositories:**
 
-- [**EnchantedRoutines**](https://github.com/LogicEnchanter/dash): A magical toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
-- [**WispOfLogic**](https://github.com/LogicEnchanter/microcontrollers): Small experimental projects exploring sensors, Arduino, RaspberryPi and more...data manipulations.
-- [**ArcaneDBs**](https://github.com/LogicEnchanter/itisallaboutdataengineering): A mystical framework for experiment, blending databases, data manipulation and cutting-edge libraries.
+- [**EnchantedRoutines**](https://github.com/LogicEnchanter/EnchantedRoutines): A magical toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
+- [**WispOfLogic**](https://github.com/LogicEnchanter/WispOfLogic): Small experimental projects exploring sensors, Arduino, RaspberryPi and more...
+- [**ArcaneDBs**](https://github.com/LogicEnchanter/ArcaneDBs): A mystical framework for experiment, blending databases, data manipulation and cutting-edge libraries.
 
 ---
 
