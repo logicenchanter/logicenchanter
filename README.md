@@ -83,12 +83,12 @@
 
 <p align="center">
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicEnchanter&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicEnchanter&layout=compact&theme=dracula&cache_seconds=1800" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <!-- Streak Stats (optional) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicEnchanter&theme=dracula" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicEnchanter&theme=dracula&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
 
 ---
