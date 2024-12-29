@@ -76,10 +76,10 @@
 
 ### 🧭 Stats & Analytics
 
-<p align="center">
-  <!-- GitHub Stats Card (replace YOURUSERNAME with your GitHub username) -->
+<!-- <p align="center">
+  <!-- GitHub Stats Card (replace YOURUSERNAME with your GitHub username) 
   <img src="https://github-readme-stats.vercel.app/api?username=LogicEnchanter&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" />
-</p>
+</p> -->
 
 <p align="center">
   <!-- Most Used Languages Card -->
