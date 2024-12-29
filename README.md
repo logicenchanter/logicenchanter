@@ -81,10 +81,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LogicEnchanter&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" />
 </p> -->
 
-<p align="center">
-  <!-- Most Used Languages Card -->
+<!--<p align="center">
+  <!-- Most Used Languages Card 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicEnchanter&layout=compact&theme=dracula&cache_seconds=1800" alt="Most Used Languages" />
-</p>
+</p>-->
 
 <p align="center">
   <!-- Streak Stats (optional) -->
@@ -92,12 +92,12 @@
 </p>
 
 ---
-
+<!--
 ### 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LogicEnchanter&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+-->
 
 ### 🌱 Recent Enchantments
 
